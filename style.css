@@ -27,7 +27,7 @@ table {
     text-align: center;
   }
   table {
-    position: relative;
+    position: fixed;
 
   }
   body {
